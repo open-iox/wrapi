@@ -1,3 +1,19 @@
 { "name": "wrapi"
-, "config" : {}
+, "config"                     : { "tabs"          : []
+                                  , "zip"           : "deflate"
+                                  , "flatdata"      : "flat"
+                                  , "flatintabs"    : []
+                                  , "flatouttabs"   : []
+                                  , "cert"          : "cert"
+                                  , "first"         : "default"
+                                  , "webport"       : 8080
+                                  , "is_log"        : true
+                                  , "is_debug"      : true
+                                  , "is_app"        : false
+                                  , "is_data"       : false
+                                  , "is_backup"     : false
+                                  , "backup_time"   : 90000
+                                  , "build"         : "./"
+                                  , "app"           : "./"
+                                  , "data"          : "./"
 }
