@@ -1,4 +1,12 @@
-{ "name": "wrapi"
+{  "name"                       : "wrapi"
+,  "version"                    : "0.0.1"
+,  "description"                : "wrapi docker"
+,  "main"                       : "server.min.js"
+,  "engine"                     : { "node" : "*"
+                                  , "npm"  : "*"
+                                  }
+,  "dependencies"               : {}
+,  "bundleDependencies"         : []
 , "config"                     : { "tabs"          : []
                                   , "zip"           : "deflate"
                                   , "flatdata"      : "flat"
@@ -16,4 +24,5 @@
                                   , "build"         : "./"
                                   , "app"           : "./"
                                   , "data"          : "./"
+                                  , "login"         : "show me"
 }
