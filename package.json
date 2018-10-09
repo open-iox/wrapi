@@ -7,6 +7,11 @@
                                   }
 ,  "dependencies"               : {}
 ,  "bundleDependencies"         : []
+ , "license" : "MIT" 
+ ,  "repository"                 : { "type": "git"
+                                  , "url" : "https://github.com/open-iox/wrapi.git" 
+} 
+, "scripts"                     : { "start" : "node server.min.js"} 
 , "config"                     : { "tabs"          : []
                                   , "zip"           : "deflate"
                                   , "flatdata"      : "flat"
