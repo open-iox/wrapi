@@ -1,5 +1,5 @@
 {  "name"                       : "wrapi"
-,  "version"                    : "0.0.1"
+,  "version"                    : "0.0.2"
 ,  "description"                : "wrapi docker"
 ,  "main"                       : "server.min.js"
 ,  "engine"                     : { "node" : "*"
@@ -29,6 +29,6 @@
                                   , "build"         : "./"
                                   , "app"           : "./"
                                   , "data"          : "./"
-                                  , "login"         : "show me"
+                                  , "login"         : "show me 0.0.2"
 }
 }
